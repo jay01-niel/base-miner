@@ -153,7 +153,7 @@ var app = new Vue({
     },
     readValues() {
       const web3 = new Web3(
-        "https://endpoints.omniatech.io/v1/bsc/testnet/public"
+        "https://developer-access-mainnet.base.org"
       );
       // const web3 = new Web3('https://data-seed-prebsc-2-s1.bnbchain.org:8545')
 
